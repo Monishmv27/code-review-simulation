@@ -1,0 +1,10 @@
+Name: Monish
+Age: 22
+department: devops
+trainer: sam
+organization: opsoft
+plays valorant
+watches movies
+anime
+trekking
+journeys
