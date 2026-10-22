@@ -2,6 +2,7 @@ Name: Monish
 Age: 22
 department: devops
 trainer: sam
+Role: trainee
 organization: opsoft
 plays valorant
 watches movies
