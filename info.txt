@@ -5,7 +5,6 @@ trainer: sam
 Role: trainee
 organization: opsoft
 plays valorant
-watches movies
-anime
-trekking
-journeys
+watching movies
+binge watch anime
+loves trekking, travelling
